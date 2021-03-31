@@ -69,5 +69,11 @@ namespace WF1
             montéepui.Show();
 
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Devi devi = new Devi();
+            devi.Show();
+        }
     }
 }

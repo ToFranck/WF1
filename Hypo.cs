@@ -14,5 +14,14 @@ namespace WF1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Double nombre1 = Convert.ToInt32(textBox1.Text);
+            Double nombre2 = Convert.ToInt32(textBox1.Text);
+
+            
+            
+        }
     }
 }

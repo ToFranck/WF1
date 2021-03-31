@@ -183,6 +183,7 @@ namespace WF1
             this.button11.TabIndex = 10;
             this.button11.Text = "Devinette";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // label1
             // 

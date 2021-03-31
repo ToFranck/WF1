@@ -14,5 +14,24 @@ namespace WF1
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Int32 nombre = Convert.ToInt32(textBox1.Text);
+            Int32 fact = 1;
+            Int32 i = 0;
+            
+
+
+
+            while (i < nombre)
+            {
+                i++;
+                fact += fact * i;
+
+                label2.Text = (fact.ToString());
+
+            } 
+        }
     }
 }
