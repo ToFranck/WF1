@@ -37,7 +37,7 @@ namespace WF1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(363, 119);
+            this.button1.Location = new System.Drawing.Point(354, 72);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -48,7 +48,7 @@ namespace WF1
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(383, 57);
+            this.label1.Location = new System.Drawing.Point(363, 54);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(54, 15);
             this.label1.TabIndex = 1;
@@ -65,9 +65,9 @@ namespace WF1
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(351, 90);
+            this.textBox1.Location = new System.Drawing.Point(435, 73);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 23);
+            this.textBox1.Size = new System.Drawing.Size(16, 23);
             this.textBox1.TabIndex = 3;
             // 
             // Imp
